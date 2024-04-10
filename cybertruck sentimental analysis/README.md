@@ -8,7 +8,7 @@ This report analyzes public sentiment towards the Tesla Cybertruck as expressed 
 Sentiment towards the Cybertruck was found to be predominantly positive, with 47.5% of comments expressing positive sentiment, 25.6% negative, and 26.9% neutral.
 
 
-![Overall Sentiment Distribution](https://github.com/CodeWithMayank-Py/cybertruck-sentiment-analysis/blob/main/Images/sentiment_pie_chart.png)
+![Overall Sentiment Distribution]((https://github.com/Jadieljade/ML-notebooks/blob/main/cybertruck%20sentimental%20analysis/Images/sentiment_pie_chart.png))
 
 
 - Sentiment Trends Over Time
